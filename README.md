@@ -1,6 +1,6 @@
 ### olá 👋 I'm Bryan Kenneth
 
-🔭 I’m currently working on Workee, an app that helps small startup with their people management
+🔭 I’m currently working on Refo, an app that helps resource management and focus
 
  🌱 I’m currently learning at Apple Developer Academy
  
