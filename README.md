@@ -1,6 +1,6 @@
 ### olá 👋 I'm Bryan Kenneth
 
-🔭 I’m currently working on Refo, an app that helps resource management and focus
+🔭 I’m currently working on Fitze, an app that helps enhance visualization for fashion items
 
  🌱 I’m currently learning at Apple Developer Academy
  
