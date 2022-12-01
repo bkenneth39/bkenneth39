@@ -6,9 +6,9 @@
  
  ⚡ Fun fact: I love Formula 1
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkenneth39&show_icons=true&theme=dark&count_private=true)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkenneth39&show_icons=true&theme=dark&count_private=true)
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=bkenneth39&theme=black-ice)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=bkenneth39&theme=black-ice)](https://git.io/streak-stats) -->
 <!--
 **bkenneth39/bkenneth39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
