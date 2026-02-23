@@ -1,8 +1,7 @@
 ### olá 👋 I'm Bryan Kenneth
+MSc Student at TU/e | Apple Developer Academy Graduate
 
-🔭 I’m currently working on Fitze, an app that helps enhance visualization for fashion items
-
- 🌱 I’m currently learning at Apple Developer Academy
+ 💻 Experience: Building scalable apps for Bank Central Asia, BJB, and Nusantara Beta Studio
  
  ⚡ Fun fact: I love Formula 1
  
